@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "rulePaths": [
+      "./lintrules/prh.yml"
+    ]
+  }
+}

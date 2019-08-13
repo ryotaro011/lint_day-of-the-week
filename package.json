@@ -1,0 +1,23 @@
+{
+    "name": "lint_day-of-the-week",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "lint": "textlint -f pretty-error docs/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryotaro318/lint_day-of-the-week.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ryotaro318/lint_day-of-the-week/issues"
+    },
+    "homepage": "https://github.com/ryotaro318/lint_day-of-the-week#readme",
+    "devDependencies": {
+        "textlint": "^11.3.1",
+        "textlint-rule-prh": "^5.2.1"
+    }
+}
